@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-https://indogithubers-badge.vercel.app/badge?username=As'ad Saleh
+https://indogithubers-badge.vercel.app/badge?username=AsadSaleh
 
-Founder at (Tangga Belajar)[https://tanggabelajar.id/]
+Founder at [Tangga Belajar](https://tanggabelajar.id/)
 NextGEN Indonesia's Code Learning Platform 
 
 Fullstack Software Engineer - Web, Mobile app, Backend
