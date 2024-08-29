@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-![IndoGitHubers-badge](https://indogithubers-badge.vercel.app/badge?username=AsadSaleh)
-
 Founder at [Tangga Belajar](https://tanggabelajar.id/)
 NextGEN Indonesia's Code Learning Platform 
 
