@@ -5,9 +5,11 @@ NextGEN Indonesia's Code Learning Platform
 
 Fullstack Software Engineer - Web, Mobile app, Backend
 
-Based in Jakarta, Indonesia.
+Currently work at: TMS Consulting, Indonesia.
 
-Proud resident of Pasar Minggu.
+Based in Pasar Minggu, Jakarta, Indonesia.
+
+More at [my personal site](https://asadghanim.vercel.app/)
 
 <!--
 **AsadSaleh/AsadSaleh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
